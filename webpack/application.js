@@ -1,2 +1,3 @@
 require ("application.css")
-console.log("Hello world!");
+require ("bootstrap/dist/css/bootstrap.css");
+eonsole.log("Hello world!");
